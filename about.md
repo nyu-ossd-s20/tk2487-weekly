@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A junior in NYU majoring in CS. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I enjoy playing games and playing instruments on my downtime.
