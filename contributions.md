@@ -21,5 +21,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Mar 1   | https://www.openstreetmap.org/changeset/81655991 | OpenStreetMap | Added a bank and a restaurant in Flushing, NY. |
 |     |     |     |      |
