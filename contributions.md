@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 | Apr 11 | https://www.openstreetmap.org/changeset/83415473 | OpenStreetMap | Added a Domino's Pizza in Flushing, NY. |
 | Apr 15 | https://www.openstreetmap.org/changeset/83608080 | OpenStreetMap | Added a restaurant in Flushing, NY. |
 | Apr 24 | https://www.openstreetmap.org/changeset/84078148 | OpenStreetMap | Finished details for a Roman Catholic church in Flushing, NY. |
+| May 6 | https://www.openstreetmap.org/changeset/84783912 | OpenStreetMap | Added a KFC and a Chase Bank in Flushing, NY. |
